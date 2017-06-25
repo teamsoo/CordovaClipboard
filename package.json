@@ -1,0 +1,14 @@
+{
+    "name": "com.verso.cordova.clipboard",
+    "version": "0.1.0",
+    "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:teamsoo/CordovaClipboard.git"
+},
+"author": "",
+"license": "ISC",
+"bugs": {
+"url": "https://github.com/teamsoo/CordovaClipboard/issues"
+},
+    "homepage": "https://github.com/teamsoo/CordovaClipboard#readme"
+}
